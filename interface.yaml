@@ -1,0 +1,4 @@
+name: dcos
+summary: DCOS Interface for communication between Master and Agents
+version: 1
+repo: 
